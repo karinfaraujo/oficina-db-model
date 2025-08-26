@@ -19,7 +19,7 @@ Este repositório contém a modelagem e implementação de um banco de dados rel
 - MySQL
 - MySQL Workbench (modelagem e geração do script)
 - SQL (DDL)
-- Chaves Estrangeiras e Integridade Refrencial
+- Chaves Estrangeiras e Integridade Referencial
 - Git/GitHub – versionamento e hospedagem do projeto
   
 ---
