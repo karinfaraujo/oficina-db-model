@@ -8,8 +8,9 @@ Este repositório contém a modelagem e implementação de um banco de dados rel
 
 ## 📁 Estrutura do Projeto
 
-- `/sql` – Script SQL com a criação completa das tabelas e relacionamentos
-- `/docs` – Diagramas ou imagens do modelo relacional (opcional)
+- README.md – documentação e contexto do projeto
+- .png – imagem do modelo conceitual
+- .sql – script de criação do banco de dados com todas as tabelas, chaves primárias e estrangeiras
 
 ---
 
@@ -18,7 +19,8 @@ Este repositório contém a modelagem e implementação de um banco de dados rel
 - MySQL
 - MySQL Workbench (modelagem e geração do script)
 - SQL (DDL)
-
+- Git/GitHub – versionamento e hospedagem do projeto
+  
 ---
 
 ## 🧱 Entidades Principais
@@ -48,3 +50,10 @@ Este repositório contém a modelagem e implementação de um banco de dados rel
 
 ---
 
+👩‍💻 Desenvolvido por
+Projeto desenvolvido por [Karin] como parte do curso Randstad - Análise de Dados (DIO).
+
+---
+
+📎 Licença
+Este projeto está sob a licença MIT – sinta-se à vontade para usar e adaptar para fins acadêmicos ou profissionais.
