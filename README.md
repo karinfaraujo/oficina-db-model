@@ -9,8 +9,8 @@ Este repositório contém a modelagem e implementação de um banco de dados rel
 ## 📁 Estrutura do Projeto
 
 - README.md – documentação e contexto do projeto
-- .png – imagem do modelo conceitual
-- .sql – script de criação do banco de dados com todas as tabelas, chaves primárias e estrangeiras
+- oficina_model.png – imagem do modelo conceitual
+- script_database.sql – script de criação do banco de dados com todas as tabelas, chaves primárias e estrangeiras
 
 ---
 
