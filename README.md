@@ -41,7 +41,7 @@ Este repositório contém a modelagem e implementação de um banco de dados rel
 
 ## 🔗 Relacionamentos (Cardinalidades)
 
-- Um **cliente** possui **muitos veículos**
+- Um **cliente** pode possuir **muitos veículos**
 - Um **veículo** pode ter **muitas ordens de serviço**
 - Uma **ordem de serviço** é executada por **uma equipe**
 - Uma **equipe** pode ter **vários mecânicos**
