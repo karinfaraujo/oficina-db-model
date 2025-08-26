@@ -50,10 +50,12 @@ Este repositório contém a modelagem e implementação de um banco de dados rel
 
 ---
 
-👩‍💻 Desenvolvido por
+## 👩‍💻 Desenvolvido por
+
 Projeto desenvolvido por [Karin] como parte do curso Randstad - Análise de Dados (DIO).
 
 ---
 
-📎 Licença
+##📎 Licença
+
 Este projeto está sob a licença MIT – sinta-se à vontade para usar e adaptar para fins acadêmicos ou profissionais.
